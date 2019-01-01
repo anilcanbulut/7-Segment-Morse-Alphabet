@@ -8,4 +8,4 @@ I've used:
 -1 Buzzer
 -2 LEDs and resistors for them.
 
-## This project is written in the Mbed Online platform, but you may also want to change the code to use it in Keil which I also highly recommend it.
+##This project is written in the Mbed Online platform, but you may also want to change the code to use it in Keil which I also highly recommend it.
