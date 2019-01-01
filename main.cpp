@@ -1,5 +1,5 @@
 #01.01.2019
-#Builded by Anılcan BULUT
+#S.w. (https://github.com/anilcanbulut)
 
 #include "mbed.h"
 
