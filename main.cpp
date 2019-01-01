@@ -1,3 +1,6 @@
+#01.01.2019
+#Builded by Anılcan BULUT
+
 #include "mbed.h"
 
 Timer t;
